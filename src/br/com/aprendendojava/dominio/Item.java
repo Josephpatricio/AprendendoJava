@@ -1,4 +1,4 @@
-package br.com.aprendendojava.br.com.aprendendojava.dominio;
+package br.com.aprendendojava.dominio;
 
 public class Item {
 
