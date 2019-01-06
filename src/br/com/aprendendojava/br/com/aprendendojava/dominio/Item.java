@@ -25,4 +25,12 @@ public class Item {
     public void setAnoCriacao(int anoCriacao) {
         this.anoCriacao = anoCriacao;
     }
+
+    @Override
+    public String toString() {
+        return "Item{" +
+                "nome='" + nome + '\'' +
+                ", anoCriacao=" + anoCriacao +
+                '}';
+    }
 }
